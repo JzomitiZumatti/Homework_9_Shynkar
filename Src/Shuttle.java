@@ -21,7 +21,7 @@ public class Shuttle {
             }
         } while (counter < numOfShuttles);
         //you can display shuttle numbers in 10 lines with 10 numbers in each, just uncomment the code below
-        System.out.println();
+        /*System.out.println("\n");
         counter = 0;
         for (Integer num : numbers) {
             if (counter < 10) {
@@ -31,6 +31,6 @@ public class Shuttle {
                 System.out.print("\n" + num + " ");
                 counter = 1;
             }
-        }
+        }*/
     }
 }
